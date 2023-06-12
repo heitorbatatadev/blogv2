@@ -1,0 +1,14 @@
+#contact iframe
+{
+    width: 100%;
+}
+.filmesHead {
+    font-size: 20px;
+    padding:6px 22px ;
+    border-radius: 10px;
+    margin-bottom:15px ;
+}
+.films_text span {
+    color: rgb(255, 230, 0);
+
+}
